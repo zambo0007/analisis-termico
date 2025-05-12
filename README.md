@@ -29,10 +29,6 @@ Se aplicaron:
 - **ANOVA de un factor**: para evaluar diferencias en distribución
 - **Prueba t de Student**: para comparar promedios entre sensores manuales y automatizados
 - **Boxplots**: para visualizar la dispersión de temperatura por cama y por aire
-
-### Ejemplo de gráfico generado:
-![Gráfico de comparación](grafico_temperatura.png)
-
 ---
 
 ## ▶️ Cómo reproducir
