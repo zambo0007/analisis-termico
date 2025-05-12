@@ -36,5 +36,7 @@ Se aplicaron:
 1. Abre el archivo `grafico_temperaturas.R` en RStudio.
 2. Asegúrate de instalar las siguientes librerías:
 
-```r
-install.packages(c("readxl", "dplyr", "tidyr", "ggplot2"))
+r
+`install.packages(c("readxl", "dplyr", "tidyr", "ggplot2"))`
+
+3. Ajusta la ruta del archivo Excel si es necesario.
