@@ -13,7 +13,7 @@ Este repositorio contiene el análisis estadístico y visual de las temperaturas
 - `resultados_anova_ttest.xlsx`: Resultados del análisis estadístico (ANOVA y t de Student).
 - `datos temperaturas.xlsx`: Datos originales utilizados, organizados por sensores, camas y fechas.
 - `grafico_temperatura.png/pdf`: Gráfico comparativo de temperatura por cama y aire.
-- - `grafico_dispersion.png/pdf`: Gráfico comparativo de dispersión térmica por cama.
+- `grafico_dispersion.png/pdf`: Gráfico comparativo de dispersión térmica por cama.
 - `README.md`: Este documento.
 
 ---
